@@ -1,0 +1,6 @@
+@DbzCards_HostAddress = http://localhost:5252
+
+GET {{DbzCards_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
